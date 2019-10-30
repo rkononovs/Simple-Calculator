@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\roma0\source\repos\ConsoleApplication1\ConsoleApplication1\main.cpp(28,33): warning C4018: '>': signed/unsigned mismatch
+  ConsoleApplication1.vcxproj -> C:\Users\roma0\source\repos\ConsoleApplication1\Debug\simpleCalculatorP2530667.exe
